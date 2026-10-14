@@ -1,0 +1,25 @@
+ID,Epic,User Story,Priority,Story Points,Target Sprint,Status
+US-16,Authentication and Security,As a registered user I want to log in securely so that I can access permitted functions,High,5,1,Backlog
+US-19,Authentication and Security,As an administrator I want role-based permissions so that users access only authorized functions,High,8,1,Backlog
+US-17,Authentication and Security,As a user I want to log out so that my session is not left open,High,2,1,Backlog
+US-01,Student Management,As an administrator I want to register a student so that an academic record can be maintained,High,5,2,Backlog
+US-02,Student Management,As authorized staff I want to search students so that records can be found quickly,High,3,2,Backlog
+US-03,Student Management,As an administrator I want to update student details so that records remain current,High,3,2,Backlog
+US-04,Student Management,As an authorized administrator I want to deactivate an obsolete record so that it is not used incorrectly,Medium,5,2,Backlog
+US-05,Course Management,As an administrator I want to create a course so that it can be assigned to students,High,3,3,Backlog
+US-06,Course Management,As an administrator I want to update course details so that the catalogue remains accurate,Medium,3,3,Backlog
+US-07,Course Management,As authorized staff I want to assign students to courses so that enrolments are recorded,High,5,3,Backlog
+US-09,Attendance Management,As faculty I want to record attendance by course and date so that records remain accurate,High,8,3,Backlog
+US-10,Attendance Management,As faculty I want to view saved attendance so that I can verify records,High,3,3,Backlog
+US-12,Marks and Academic Performance,As faculty I want to enter marks so that performance is recorded,High,5,4,Backlog
+US-14,Marks and Academic Performance,As faculty I want grades calculated by approved rules so that grading is consistent,High,5,4,Backlog
+US-15,Marks and Academic Performance,As academic staff I want a result sheet so that results can be reviewed,Medium,5,4,Backlog
+US-11,Attendance Management,As authorized staff I want attendance reports so that attendance can be reviewed,Medium,5,4,Backlog
+US-18,Authentication and Security,As a user I want to reset my password through a verified process so that I can regain access,Medium,5,Later,Backlog
+US-20,Notifications,As a student I want an attendance alert at a defined threshold so that I can take corrective action,Low,5,Later,Backlog
+US-21,Notifications,As a student I want examination notifications so that I can prepare on time,Low,3,Later,Backlog
+US-22,Notifications,As a student I want a result notification so that I know when results are available,Low,3,Later,Backlog
+US-23,Reporting,As academic staff I want student reports so that I can review student details,Medium,3,Later,Backlog
+US-24,Reporting,As faculty I want performance reports so that I can review marks and grades,Medium,5,Later,Backlog
+US-25,Reporting,As an administrator I want course reports so that I can review enrolment information,Low,3,Later,Backlog
+US-26,Reporting,As an administrator I want an academic analytics dashboard so that I can identify broad trends,Low,8,Later,Backlog

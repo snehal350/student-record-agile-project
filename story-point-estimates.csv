@@ -1,0 +1,11 @@
+ID,Story,Estimate,Complexity rationale
+US-17,Logout,2,Small workflow with session termination and verification
+US-02,Search student,3,Simple search with input validation and no-results handling
+US-05,Add course,3,Form validation and duplicate course-code checks
+US-01,Add student,5,Several fields, validation, duplicate checking, and persistence
+US-16,Login,5,Credential validation, error handling, and session flow
+US-07,Assign students to courses,5,Requires course and student relationship checks
+US-14,Calculate grades,5,Depends on approved grading rules and boundary testing
+US-19,Role-based access,8,Multiple roles and permission checks across protected actions
+US-09,Record attendance,8,Course/date selection, enrolled-student workflow, persistence, and duplicate handling
+US-26,Academic analytics dashboard,8,Aggregations, display, and validation of summary data
